@@ -66,7 +66,7 @@ What is reactive programming?
 
 ## Answer 7
 
-Reactive programming is based around asynchronous data streams. The stream will hold events produced by components and other components can listen and react on certain events which in turn might cause a nev stream.
+Reactive programming is based around asynchronous data streams. The stream will hold events produced by components and other components can listen and react on certain events which in turn might cause a new stream.
 
 ## Question 8
 
