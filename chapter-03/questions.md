@@ -52,7 +52,7 @@ What are the two core principles of functional programming?
 
 ## Answer 6
 
-There are as I understand it more than two core principles in functional programming but the two mentioned in this chapter of the book are:
+There are as I understand it more than two core principles in functional programming, but the two mentioned in this chapter of the book are:
 
 1. First-class functions
 
